@@ -1,7 +1,7 @@
 # Lafayette-Quantum-Unlocked
 
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/VeditVenkatesh/Lafayette-Quantum-Unlocked/blob/main/Open_Notebook_A.ipynb) ) | Open Notebook A
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/VeditVenkatesh/Lafayette-Quantum-Unlocked/blob/main/Open_Notebook_A.ipynb) | Open Notebook A
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/VeditVenkatesh/Lafayette-Quantum-Unlocked/blob/main/Open_Notebook_B.ipynb) | Open Notebook B
 
